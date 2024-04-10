@@ -1,3 +1,12 @@
-# Slidev for CLussys
+# Slidev for Clussys
 
-## Using Docker to fetch environment 
+## Linux
+
+In Linux Using Docker to fetch environment
+
+
+## Windows
+
+```
+slidev slides.md
+```
